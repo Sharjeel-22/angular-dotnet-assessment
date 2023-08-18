@@ -1,0 +1,151 @@
+.container {
+  padding: 20px 40px;
+}
+.search-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.search-newest-story {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  padding-left: 11px;
+  border-radius: 12px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+@media (max-width: 768px) {
+  .search-newest-story {
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .search-input-field > input {
+    width: 100% !important;
+  }
+}
+
+thead {
+  background-color: gray;
+}
+.search-input-field > input {
+  width: 300px;
+  border: 1px solid #bf751b;
+  padding: 15px;
+  border-radius: 12px;
+  background-color: transparent;
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: serif;
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  &::placeholder {
+    color: black;
+  }
+}
+@media (max-width: 768px) {
+  .search-input-field > input {
+    width: 90%;
+    font-size: 18px;
+  }
+  .button {
+    width: 100%;
+  }
+}
+
+th,td{
+  border: 1px solid #eee;
+  padding: 10px;
+  word-break: break-all;
+
+}
+td:nth-child(3) {
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 15px;
+
+  @media (max-width: 768px) {
+    overflow-x: auto;
+  }
+}
+table {
+  width: 100%;
+  border-radius: 10px;
+  border-collapse: collapse;
+
+  @media (max-width: 768px) {
+    // width: 500px;
+    // overflow: scroll;
+  }
+
+}
+
+.card-footer {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: 10px;
+  @media (max-width: 768px) {
+  }
+}
+.button {
+  background-color: white;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px;
+  font-weight: 900;
+  color: black;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.link {
+  margin-top: 20px;
+  font-weight: 800;
+  width: 100%;
+  word-wrap: break-word;
+  @media (max-width: 768px) {
+    a {
+      font-size: 18px;
+    }
+    .link-label {
+      font-size: 21px;
+    }
+  }
+}
+
+
+a {
+  text-decoration: none;
+  text-align: justify;
+  color: black;
+  word-wrap: break-word;
+  text-decoration: underline;
+}
+
+.loader {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.161);
+}

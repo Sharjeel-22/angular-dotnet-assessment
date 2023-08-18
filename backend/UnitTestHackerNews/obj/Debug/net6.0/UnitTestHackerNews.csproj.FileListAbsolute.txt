@@ -1,0 +1,226 @@
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\testhost.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.deps.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.runtimeconfig.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\appsettings.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.exe
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\testhost.exe
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.deps.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.runtimeconfig.json
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.pdb
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Moq.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.pdb
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.AssemblyReference.cache
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.AssemblyInfoInputs.cache
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.AssemblyInfo.cs
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.CoreCompileInputs.cache
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.CopyComplete
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\refint\UnitTestHackerNews.dll
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.pdb
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.genruntimeconfig.cache
+C:\Users\Sohail\source\repos\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\ref\UnitTestHackerNews.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\appsettings.Development.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\appsettings.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\testhost.exe
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\testhost.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.deps.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.runtimeconfig.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.exe
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.deps.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.runtimeconfig.json
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\UnitTestHackerNews.pdb
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Castle.Core.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Moq.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\HackerNewsApi.pdb
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.AssemblyReference.cache
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.GeneratedMSBuildEditorConfig.editorconfig
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.AssemblyInfoInputs.cache
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.AssemblyInfo.cs
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.CoreCompileInputs.cache
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.csproj.CopyComplete
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\refint\UnitTestHackerNews.dll
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.pdb
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\UnitTestHackerNews.genruntimeconfig.cache
+F:\Office Projects\Tests\HackerNewsApi\HackerNewsApi\UnitTestHackerNews\obj\Debug\net6.0\ref\UnitTestHackerNews.dll

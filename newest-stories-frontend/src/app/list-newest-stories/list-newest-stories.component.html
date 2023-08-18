@@ -1,0 +1,65 @@
+<div class="container" *ngIf="!isLoading">
+  <div class="wrapper">
+    <div class="search-wrapper">
+      <div class="search-newest-story">
+        <h1>List of Newest Stories</h1>
+        <div class="search-input-field">
+          <input
+            type="text"
+            placeholder="Search Newest Stories...."
+            [(ngModel)]="searchedText"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <table>
+        <thead>
+          <th>S No</th>
+          <th>Title</th>
+          <th>URL</th>
+        </thead>
+        <tbody>
+          <ng-container *ngFor="let data of stories | filter : searchedText : allStories;let i = index, let even = even;">
+            <tr [ngStyle]="{'background-color': even ? 'none': 'lightgray'}">
+              <td>{{i+1}}</td>
+              <td>{{data.title}}</td>
+              <td><a href="{{data.url}}" target="_blank">{{data.url}}</a></td>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="footer-wrapper">
+    <div class="card-footer" *ngIf="!searchedText.length">
+      <button
+        class="button"
+        [ngStyle]="{
+          'background-color': currentPage === 1 ? '#C0C0C0' : 'transparent',
+          cursor: currentPage === 1 ? 'not-allowed' : 'pointer',
+          color: currentPage === 1 ? '#eee' : 'black'
+        }"
+        (click)="prevPage()"
+        [disabled]="currentPage === 1"
+      >
+        Previous
+      </button>
+      <button
+        class="button"
+        [ngStyle]="{
+          'background-color': currentPage === totalPages ? 'gray' : 'transparent',
+          cursor: currentPage === totalPages ? 'not-allowed' : 'pointer',
+          color: currentPage === totalPages ? '#eee' : 'black'
+        }"
+        (click)="nextPage()"
+        [disabled]="currentPage === totalPages"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+<div class="loader" *ngIf="isLoading">
+  <app-spinner></app-spinner>
+</div>
